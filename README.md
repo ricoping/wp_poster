@@ -10,7 +10,9 @@ This doesn't post an article automatically, so you can check before it goes on p
 <p>
 You need to change:
 </p>
-wp_post.py<br/>
+<p>
+wp_post.py
+</p>
 <blockquote>
 WP_USER = "your_user_name"<br/>
 WP_PASS = "your_passwd"<br/>
