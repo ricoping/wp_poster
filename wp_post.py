@@ -1,4 +1,4 @@
-import shelve, re, os
+import re, os
 from selenium import webdriver
 import pyperclip
 from selenium.webdriver.common.keys import Keys
