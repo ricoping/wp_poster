@@ -10,13 +10,13 @@ This doesn't post an article automatically, so you can check before it goes on p
 <p>
 You need to change:
 </p>
-wp_post.py
+wp_post.py<br/>
 <blockquote>
 WP_USER = "your_user_name"<br/>
 WP_PASS = "your_passwd"<br/>
 WP_DOMAIN = "http://example.com"<br/>
 </blockquote>
-and<br/>
+and<br/><br/>
 <blockquote>
 import wp_post<br/>
 text_body = """<br/>
